@@ -1,4 +1,4 @@
-<h1>AMI application<h1>
+<h1>AMI application</h1>
 
   
 The idea for this application is to create a simple dashboard that will track the number of Users (total number of asterisk Extensions), the number of active users (number of registered Extensions), and ongoing calls.
