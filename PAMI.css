@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: aliceblue;
+}
+header{
+    height: 80px;
+    background-color: indianred;
+    text-align: center;
+    vertical-align: central;
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 30px;
+    font-style: italic;
+}
+div div{
+    display: flex;
+    justify-content: center;
+}
+
+#MainOne div {
+    margin: 50px;
+}
+
+main{
+    display: flex;
+    justify-content: center
+}
+main section {
+    height: 350px;
+    width: 300px;
+    border: solid darkblue;
+    margin: 30px;
+    border-radius: 15px;
+    text-align: center;
+}
+#MainOne{
+    margin-bottom: 90px;
+}
+
+main section{
+    padding-top: 30px;
+}
+main section h3{
+    text-align: center;
+    margin-bottom: 100px
+}
+footer{
+    margin: auto;
+    width: 100% ;
+    border: 5px solid blanchedalmond;
+    padding: 10px;
+    text-align: center;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+}
+
+.bosnia{
+    margin-top: 10px;
+}
+
+.addMargin{
+    margin-top: 100px !important;
+}
